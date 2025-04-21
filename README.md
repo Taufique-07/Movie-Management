@@ -25,7 +25,7 @@ A Java-based GUI application for managing movie ticket bookings, built using **S
 1. Make sure you have Java installed and added to your system's PATH.
 2. Double-click or run `run.bat` to compile and start the application.
 
-Alternatively, from the terminal:
+   Alternatively, from the terminal:
       javac.Start
 
 ## 🧠 Concepts Demonstrated
